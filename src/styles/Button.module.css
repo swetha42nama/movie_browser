@@ -1,0 +1,20 @@
+
+.viewDetails {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
+  .moreInfoBtn {
+    width: 100%;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    font-size: 0.875rem;
+  }
+  
+  .moreInfoBtn .material-icons {
+    font-size: 1rem;
+  }
